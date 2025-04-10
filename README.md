@@ -1,1 +1,1 @@
-# etch-a-sketch
+In this project, I will be creating a browser version of something between a sketchpad and Etch-A-Sketch.
